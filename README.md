@@ -1,5 +1,6 @@
 Grafika
 =======
+Fork of Grafika to run on modern Android.
 
 Welcome to Grafika, a dumping ground for Android graphics & media hacks.
 
