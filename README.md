@@ -2,6 +2,8 @@ Grafika
 =======
 Fork of Grafika to run on modern Android.
 
+Test device: GrapheneOS on Google Pixel 6A (Android 16 based)
+
 Welcome to Grafika, a dumping ground for Android graphics & media hacks.
 
 Grafika is:
